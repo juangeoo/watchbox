@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/watchbox/static/css/main.c14c63c8.css",
-    "main.js": "/watchbox/static/js/main.075b1921.js",
+    "main.js": "/watchbox/static/js/main.badb27ac.js",
     "index.html": "/watchbox/index.html",
     "main.c14c63c8.css.map": "/watchbox/static/css/main.c14c63c8.css.map",
-    "main.075b1921.js.map": "/watchbox/static/js/main.075b1921.js.map"
+    "main.badb27ac.js.map": "/watchbox/static/js/main.badb27ac.js.map"
   },
   "entrypoints": [
     "static/css/main.c14c63c8.css",
-    "static/js/main.075b1921.js"
+    "static/js/main.badb27ac.js"
   ]
 }
